@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mstigman.github.io/test-landing",
-  "name": "test-landing",
+  "homepage": "https://mstigman.github.io/testLandingPage/",
+  "name": "testLandingPage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
