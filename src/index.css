@@ -23,16 +23,16 @@ box-shadow: 0px 10px 54px -11px rgba(0,0,0,0.75);
 /*------------- NAVIGATION BAR -------------------*/
 
 nav {
-  position: fixed;
+  /*position: fixed;*/
   z-index: 99;
   background: #fff;
   z-index: 99;
   width: 100%;
-  max-width: 1500px;
+  /*max-width: 1500px;*/
   margin: 0 auto;  
-  padding: 12px 0;
+  padding: 7px 0;
   display: grid;
-  grid-template-columns: 1.2fr 5fr 3fr 8fr;
+  grid-template-columns: 1.2fr 5fr 5fr 6fr;
   -webkit-box-shadow: 0px 10px 54px -11px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 10px 54px -11px rgba(0,0,0,0.75);
 box-shadow: 0px 10px 54px -11px rgba(0,0,0,0.75);
